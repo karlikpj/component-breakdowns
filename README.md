@@ -5,8 +5,8 @@ This is a series of MDX files that document the uswds/ncids components for packa
 ![version](https://img.shields.io/badge/ncids-2.3.0-bd0246.svg?style=flat)
 ![version](https://img.shields.io/badge/uswds-3.3.0-4287f5.svg?style=flat)
 
-- [components](/components/)
-- [placeholders](/placeholders/)
+- [components](/components/index.md)
+- [placeholders](/placeholders/index.md)
 
 This is a work in progress and will be updated over time.
 
