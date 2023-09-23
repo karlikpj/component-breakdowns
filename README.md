@@ -1,6 +1,12 @@
 # Component Breakdowns
 
-This is a series of MDX files that document the uswds/ncids components into mixins/tokens and classnames for quick reference.
+This is a series of MDX files that document the uswds/ncids components for packages, mixins, tokens and classnames used and created for quick reference.
 
-This is a work in progress.
+![version](https://img.shields.io/badge/ncids-2.3.0-bd0246.svg?style=flat)
+![version](https://img.shields.io/badge/uswds-3.3.0-4287f5.svg?style=flat)
+
+- [components](/components/)
+- [placeholders](/placeholders/)
+
+This is a work in progress and will be updated over time.
 

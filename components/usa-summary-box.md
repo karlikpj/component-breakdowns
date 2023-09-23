@@ -6,7 +6,7 @@
 
 [`@forward "usa-summary-box";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-summary-box/)
 
-- [`@use "sass:list";`](/usa-list.md)
+- [`@use "sass:list";`](/components/usa-list.md)
 
 ## Mixins
 
