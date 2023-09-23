@@ -1,26 +1,27 @@
 # usa-list
 
+![version](https://img.shields.io/badge/version-3.3.0-51b1c5.svg?style=flat)
+
 ## Packages
 
-`@forward "usa-list";`
+[`@forward "usa-list";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-list/)
 
 ## Mixins
 
-- `packages/uswds-core/src/styles/mixins/typography/usa-list.scss`
+- [`packages/uswds-core/src/styles/mixins/typography/usa-list.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/typography/usa-list.scss)
 
   - `usa-list`
   - `usa-list-item`
   - `usa-list-styles`
 
-- `packages/uswds-core/src/styles/mixins/typography/unstyled-list.scss`
+- [`packages/uswds-core/src/styles/mixins/typography/unstyled-list.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/typography/unstyled-list.scss)
   - `unstyled-list`
 
 ## Tokens
 
-| mixin/class     | selector                                                         |
-| :-------------- | :--------------------------------------------------------------- |
-| `usa-list`      | `line-height($theme-body-font-family, $theme-body-line-height);` |
-| `usa-list-item` | `max-width: measure($theme-text-measure);`                       |
+- `$theme-body-font-family`
+- `$theme-body-line-height`
+- `$theme-text-measure`
 
 ### Class Names
 

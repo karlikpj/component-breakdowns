@@ -1,29 +1,27 @@
 # usa-tag
 
+![version](https://img.shields.io/badge/version-3.3.0-51b1c5.svg?style=flat)
+
 ## Packages
 
-`@forward "usa-tag";`
+[`@forward "usa-tag";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-tag/)
 
 ## Mixins
 
-- `packages/uswds-core/src/styles/mixins/helpers/border-box-sizing.scss`
+- [`packages/uswds-core/src/styles/mixins/helpers/border-box-sizing.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/helpers/border-box-sizing.scss)
 
   - `border-box-sizing`
 
-- `packages/uswds-core/src/styles/mixins/utilities/_font.scss`
+- [`packages/uswds-core/src/styles/mixins/utilities/_font.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/utilities/_font.scss)
 
   - `u-font`
 
-- `packages/uswds-core/src/styles/mixins/utilities/_text.scss`
+- [`packages/uswds-core/src/styles/mixins/utilities/_text.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/utilities/_text.scss)
   - `u-text`
 
 ## Tokens
 
-| mixin/class    | selector                                        |
-| :------------- | :---------------------------------------------- |
-| `usa-tag`      | `@include u-font("ui", "2xs");`                 |
-| `usa-tag`      | `@include u-text("white", "uppercase");`        |
-| `usa-tag--big` | `@include u-font("ui", $theme-body-font-size);` |
+- `$theme-body-font-size`
 
 ### Class Names
 
