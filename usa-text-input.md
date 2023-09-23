@@ -6,8 +6,8 @@
 
 [`@forward "usa-textarea";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-textarea/)
 
-- [`@extend %block-input-general;`](/placeholders/forms)
-- [`@extend %block-input-styles;`](/placeholders/forms)
+- [`@extend %block-input-general;`](/placeholders/forms.md)
+- [`@extend %block-input-styles;`](/placeholders/forms.md)
 
 ## Mixins
 
