@@ -1,12 +1,12 @@
-# usa-summary-box
-
 ![version](https://img.shields.io/badge/version-3.3.0-51b1c5.svg?style=flat)
+
+# usa-summary-box
 
 ## Packages
 
 [`@forward "usa-summary-box";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-summary-box/)
 
-- [`@use "sass:list";`](/usa-list)
+- [`@use "sass:list";`](/usa-list.md)
 
 ## Mixins
 
