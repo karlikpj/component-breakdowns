@@ -34,10 +34,11 @@
   - `u_border`
 
 ## Tokens
-
-- `$input-select-margin-right: 1.5;` **_internal variable_**
-- `$theme-form-font-family`
-- `$theme-body-font-size`
-- `$theme-input-line-height`
-- `$theme-tooltip-font-size`
-- `$theme-input-max-width`
+```css
+$input-select-margin-right: 1.5
+$theme-form-font-family
+$theme-body-font-size
+$theme-input-line-height
+$theme-tooltip-font-size
+$theme-input-max-width
+```

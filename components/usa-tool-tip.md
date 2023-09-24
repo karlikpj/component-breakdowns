@@ -16,21 +16,25 @@
 
 ## Tokens
 
-- `$triangle-size: 5px;` **_internal variable_**
-- `$theme-tooltip-background-color`
-- `$theme-button-border-radius`
-- `$theme-tooltip-font-color`
-- `$theme-tooltip-font-size`
+```css
+$triangle-size: 5px;
+$theme-tooltip-background-color
+$theme-button-border-radius
+$theme-tooltip-font-color
+$theme-tooltip-font-size
+```
 
 ### Class Names
 
-- `.usa-tooltip`
-- `.usa-tooltip__trigger`
-- `.usa-tooltip__body`
-- `.usa-tooltip__body--top`
-- `.usa-tooltip__body--bottom`
-- `.usa-tooltip__body--left`
-- `.usa-tooltip__body--right`
-- `.usa-tooltip__body--wrap`
-- `.usa-tooltip__body.is-set`
-- `.usa-tooltip__body.is-visible`
+```css
+.usa-tooltip
+.usa-tooltip__trigger
+.usa-tooltip__body
+.usa-tooltip__body--top
+.usa-tooltip__body--bottom
+.usa-tooltip__body--left
+.usa-tooltip__body--right
+.usa-tooltip__body--wrap
+.usa-tooltip__body.is-set
+.usa-tooltip__body.is-visible
+```

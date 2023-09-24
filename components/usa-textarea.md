@@ -20,4 +20,6 @@
 
 ### Class Names
 
-- `.usa-textarea`
+```css
+.usa-textarea
+```

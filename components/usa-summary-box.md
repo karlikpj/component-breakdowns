@@ -31,26 +31,29 @@
   - `set-link-from-bg`
 
 - [`packages/uswds-core/_functionsOLD.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/_functionsOLD.scss)
-  
-	- `color`
+
+  - `color`
   - `units`
   - `get-link-tokens-from-bg`
 
-
 ## Tokens
 
-- `$summary-box-context: "Summary Box"` **_internal variable_**
-- `$theme-summary-box-font-family`
-- `$theme-summary-box-border-radius`
-- `$theme-summary-box-border-width`
-- `$theme-summary-box-border-color`
-- `$theme-summary-box-background-color`
-- `$theme-summary-box-text-color`
+```css
+$summary-box-context: 'Summary Box' 
+$theme-summary-box-font-family
+$theme-summary-box-border-radius 
+$theme-summary-box-border-width
+$theme-summary-box-border-color 
+$theme-summary-box-background-color
+$theme-summary-box-text-color;
+```
 
 ### Class Names
 
-- `.usa-summary-box`
-- `.usa-summary-box__heading`
-- `.usa-summary-box__text`
-- `.usa-summary-box__link`
-- `.usa-summary-box__heading`
+```css
+.usa-summary-box
+.usa-summary-box__heading
+.usa-summary-box__text
+.usa-summary-box__link
+.usa-summary-box__heading;
+```

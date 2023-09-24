@@ -19,11 +19,14 @@
 
 ## Tokens
 
-- `$theme-body-font-family`
-- `$theme-body-line-height`
-- `$theme-text-measure`
+```css
+$theme-body-font-family
+$theme-body-line-height
+$theme-text-measure
+```
 
 ### Class Names
 
-- `.usa-list`
-- `.usa-list--unstyled`
+```css
+.usa-list .usa-list--unstyled;
+```

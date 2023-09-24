@@ -21,9 +21,13 @@
 
 ## Tokens
 
-- `$theme-body-font-size`
+```css
+$theme-body-font-size
+```
 
 ### Class Names
 
-- `.usa-tag`
-- `.usa-tag--big`
+```css
+.usa-tag 
+.usa-tag--big
+```
