@@ -2,6 +2,75 @@
 
 # Changes
 
+## Theme Palette
+
+#### Palette
+
+| Color                             | USWDS         |         | NCIDS        |         |
+| :-------------------------------- | :------------ | :-----: | :----------- | :-----: |
+| $theme-color-primary-lightest     | false         |         |              |         |
+| $theme-color-primary-lighter      | blue-10       | #d9e8f6 | cerulean-20  | #99cae4 |
+| $theme-color-primary-light        | blue-30       | #73b3e7 | cerulean-40  | #3395ca |
+| $theme-color-primary              | blue-60v      | #005ea2 | cerulean-50  | #007bbd |
+| $theme-color-primary-vivid        | blue-warm-60v | #0050d8 | cerulean-50v | #067cbc |
+| $theme-color-primary-dark         | blue-warm-70v | #1a4480 | cerulean-70  | #004e7a |
+| $theme-color-primary-darker       | blue-warm-80v | #162e51 | cerulean-80  | #003a57 |
+| $theme-color-primary-darkest      | false         |         |              |         |
+| $theme-color-secondary-lightest   | false         |         |              |         |
+| $theme-color-secondary-lighter    | red-cool-10   | #f3e1e4 | teal-10      | #beebee |
+| $theme-color-secondary-light      | red-30        | #f2938c | teal-30      | #4bbfc6 |
+| $theme-color-secondary            | red-50        | #d83933 | teal-50      | #298085 |
+| $theme-color-secondary-vivid      | red-cool-50v  | #e41d3d | teal-50v     | #338084 |
+| $theme-color-secondary-dark       | red-60v       | #b50909 | teal-70      | #1e4c4f |
+| $theme-color-secondary-darker     | red-70v       | #8b0a03 | teal-80      | #17373a |
+| $theme-color-secondary-darkest    | false         |         |              |         |
+| $theme-color-accent-warm-lightest | false         |         |              |         |
+| $theme-color-accent-warm-lighter  | orange-10     | #f2e4d4 | golden-5     | #fdf2bf |
+| $theme-color-accent-warm-light    | orange-20v    | #ffbc78 | golden-10    | #fee685 |
+| $theme-color-accent-warm          | orange-30v    | #fa9441 | golden-20    | #face00 |
+| $theme-color-accent-warm-dark     | orange-50v    | #c05600 | golden-30    | #ddaa01 |
+| $theme-color-accent-warm-darker   | orange-60     | #775540 | golden-40    | #b38c00 |
+| $theme-color-accent-warm-darkest  | false         |         |              |         |
+| $theme-color-accent-cool-lightest | false         |         |              |         |
+| $theme-color-accent-cool-lighter  | blue-cool-5v  | #e1f3f8 | navy-10      | #d7e5f4 |
+| $theme-color-accent-cool-light    | blue-cool-20v | #97d4ea | navy-30      | #92a9c8 |
+| $theme-color-accent-cool          | cyan-30v      | #00bde3 | navy-50      | #5478ab |
+| $theme-color-accent-cool-dark     | blue-cool-40v | #28a0cb | navy-70      | #284976 |
+| $theme-color-accent-cool-darker   | blue-cool-60v | #07648d | navy-90      | #06162d |
+| $theme-color-accent-cool-darkest  | false         |         |              |         |
+
+#### State / Info Palette
+
+| Class name                   | USWDS default  |   hex   | NCIDS change  |   hex   |
+| :--------------------------- | :------------- | :-----: | :------------ | :-----: |
+| $theme-color-error-family    | red-warm       |         | cranberry     |         |
+| $theme-color-error-light     | cranberry-40   | #d66e8a | cranberry-30v | #f27da2 |
+| $theme-color-error-lighter   | cranberry-20   | #f1c5d2 | cranberry-10v | #ffdbe7 |
+| $theme-color-error           | cranberry-60   | #bb0e3d | cranberry-50v | #e41154 |
+| $theme-color-error-dark      | red-60v        | #b50909 | cranberry-60v | #b60d43 |
+| $theme-color-error-darker    | red-70         | #6f3331 | cranberry-70  | #950b30 |
+| $theme-color-warning-family  | gold           |         | golden        |         |
+| $theme-color-warning-light   | golden-10      | #fee685 | golden-10v    | #ffe396 |
+| $theme-color-warning-lighter | yellow-5       | #faf3d1 | golden-5      | #fdf2bf |
+| $theme-color-warning         | golden-20      | #face00 | golden-20v    | #ffbe2e |
+| $theme-color-warning-dark    | golden-30      | #ddaa01 | golden-30v    | #e5a000 |
+| $theme-color-warning-darker  | gold-50v       | #936f38 | golden-50v    | #936f38 |
+| $theme-color-success-family  | green-cool     |         | teal          |         |
+| $theme-color-success-light   | teal-20        | #93d8dc | teal-20v      | #67e4e8 |
+| $theme-color-success-lighter | green-cool-5   | #ecf3ec | teal-5        | #dbf2f3 |
+| $theme-color-success         | teal-40        | #3c989e | teal-40v      | #42979a |
+| $theme-color-success-dark    | teal-50        | #298085 | teal-50v      | #338084 |
+| $theme-color-success-darker  | green-cool-60v | #216e1f | teal-60v      | #206b6f |
+| $theme-color-info-family     | cyan           |         | cerulean      |         |
+| $theme-color-info-light      | cerulean-30    | #66afd7 | cerulean-20   | #99cae4 |
+| $theme-color-info-lighter    | cyan-5         | #e7f6f8 | cerulean-10   | #d4e7f2 |
+| $theme-color-info            | cerulean-50    | #007bbd | cerulean-30v  | #51b8f0 |
+| $theme-color-info-dark       | cyan-40v       | #009ec1 | cerulean-40v  | #2099df |
+| $theme-color-info-darker     | blue-cool-60   | #2e6276 | cerulean-60v  | #01679d |
+| $theme-color-emergency       | red-warm-60v   | #9c3d10 | cranberry-60v | #b60d43 |
+| $theme-color-emergency-dark  | red-warm-80    | #332d29 | cranberry-80  | #700824 |
+| $theme-link-color            | primary        | #007bbd | cerulean-60v  | #01679d |
+
 ## Text
 
 #### Theme Palette
@@ -153,40 +222,6 @@
 | .bg-disabled-dark        | gray-30        | #adadad |               |         |
 | .bg-emergency            | red-warm-60v   | #9c3d10 | cranberry-60v | #b60d43 |
 | .bg-emergency-dark       | red-warm-80    | #332d29 | cranberry-80  | #700824 |
-
-## State / Info
-
-#### Theme Palette
-
-| Class name                   | USWDS default  |   hex   | NCIDS change  |   hex   |
-| :--------------------------- | :------------- | :-----: | :------------ | :-----: |
-| $theme-color-error-family    | red-warm       |         | cranberry     |         |
-| $theme-color-error-light     | cranberry-40   | #d66e8a | cranberry-30v | #f27da2 |
-| $theme-color-error-lighter   | cranberry-20   | #f1c5d2 | cranberry-10v | #ffdbe7 |
-| $theme-color-error           | cranberry-60   | #bb0e3d | cranberry-50v | #e41154 |
-| $theme-color-error-dark      | red-60v        | #b50909 | cranberry-60v | #b60d43 |
-| $theme-color-error-darker    | red-70         | #6f3331 | cranberry-70  | #950b30 |
-| $theme-color-warning-family  | gold           |         | golden        |         |
-| $theme-color-warning-light   | golden-10      | #fee685 | golden-10v    | #ffe396 |
-| $theme-color-warning-lighter | yellow-5       | #faf3d1 | golden-5      | #fdf2bf |
-| $theme-color-warning         | golden-20      | #face00 | golden-20v    | #ffbe2e |
-| $theme-color-warning-dark    | golden-30      | #ddaa01 | golden-30v    | #e5a000 |
-| $theme-color-warning-darker  | gold-50v       | #936f38 | golden-50v    | #936f38 |
-| $theme-color-success-family  | green-cool     |         | teal          |         |
-| $theme-color-success-light   | teal-20        | #93d8dc | teal-20v      | #67e4e8 |
-| $theme-color-success-lighter | green-cool-5   | #ecf3ec | teal-5        | #dbf2f3 |
-| $theme-color-success         | teal-40        | #3c989e | teal-40v      | #42979a |
-| $theme-color-success-dark    | teal-50        | #298085 | teal-50v      | #338084 |
-| $theme-color-success-darker  | green-cool-60v | #216e1f | teal-60v      | #206b6f |
-| $theme-color-info-family     | cyan           |         | cerulean      |         |
-| $theme-color-info-light      | cerulean-30    | #66afd7 | cerulean-20   | #99cae4 |
-| $theme-color-info-lighter    | cyan-5         | #e7f6f8 | cerulean-10   | #d4e7f2 |
-| $theme-color-info            | cerulean-50    | #007bbd | cerulean-30v  | #51b8f0 |
-| $theme-color-info-dark       | cyan-40v       | #009ec1 | cerulean-40v  | #2099df |
-| $theme-color-info-darker     | blue-cool-60   | #2e6276 | cerulean-60v  | #01679d |
-| $theme-color-emergency       | red-warm-60v   | #9c3d10 | cranberry-60v | #b60d43 |
-| $theme-color-emergency-dark  | red-warm-80    | #332d29 | cranberry-80  | #700824 |
-| $theme-link-color            | primary        | #007bbd | cerulean-60v  | #01679d |
 
 ## Border
 

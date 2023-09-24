@@ -2,6 +2,15 @@
 
 # Component Variables
 
+## Links
+
+```js
++ $theme-link-color: "cerulean-60v" !default;
+  $theme-link-visited-color: "violet-70v" !default;
+  $theme-link-hover-color: "primary-dark" !default;
+  $theme-link-active-color: "primary-darker" !default;
+```
+
 ## Footer
 
 ```js
