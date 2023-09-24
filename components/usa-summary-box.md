@@ -39,13 +39,13 @@
 ## Tokens
 
 ```css
-$summary-box-context: 'Summary Box' 
+$summary-box-context: 'Summary Box';
 $theme-summary-box-font-family
 $theme-summary-box-border-radius 
 $theme-summary-box-border-width
 $theme-summary-box-border-color 
 $theme-summary-box-background-color
-$theme-summary-box-text-color;
+$theme-summary-box-text-color
 ```
 
 ### Class Names

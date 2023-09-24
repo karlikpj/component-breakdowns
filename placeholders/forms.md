@@ -35,7 +35,7 @@
 
 ## Tokens
 ```css
-$input-select-margin-right: 1.5
+$input-select-margin-right: 1.5;
 $theme-form-font-family
 $theme-body-font-size
 $theme-input-line-height
