@@ -14,7 +14,10 @@
   - `@use "../mixins" as *;`
   - [`@use "../variables/border-high-contrast.scss" as *;`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/variables/border-high-contrast.scss)
 
-## Mixins
+
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/src/styles/mixins/typography/typeset.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/typography/typeset.scss)
 
@@ -32,6 +35,8 @@
 - [`packages/uswds-core/src/styles/mixins/utilities/_border.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/utilities/_border.scss)
 
   - `u_border`
+
+</details>
 
 ## Tokens
 ```css

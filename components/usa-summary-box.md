@@ -8,7 +8,9 @@
 
 - [`@use "sass:list";`](/components/usa-list.md)
 
-## Mixins
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/src/styles/mixins/typography/typeset.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/typography/typeset.scss)
 
@@ -35,6 +37,8 @@
   - `color`
   - `units`
   - `get-link-tokens-from-bg`
+  
+</details>
 
 ## Tokens
 

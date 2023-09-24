@@ -6,13 +6,17 @@
 
 [`@forward "usa-tooltip";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-tooltip/)
 
-## Mixins
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/_functionsOLD.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/_functionsOLD.scss)
   - `color`
   - `radius`
   - `size`
   - `units`
+
+</details>
 
 ## Tokens
 

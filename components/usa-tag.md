@@ -6,7 +6,9 @@
 
 [`@forward "usa-tag";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-tag/)
 
-## Mixins
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/src/styles/mixins/helpers/border-box-sizing.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/helpers/border-box-sizing.scss)
 
@@ -18,6 +20,8 @@
 
 - [`packages/uswds-core/src/styles/mixins/utilities/_text.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/utilities/_text.scss)
   - `u-text`
+
+</details>
 
 ## Tokens
 

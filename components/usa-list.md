@@ -6,7 +6,9 @@
 
 [`@forward "usa-list";`](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-list/)
 
-## Mixins
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/src/styles/mixins/typography/usa-list.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/typography/usa-list.scss)
 
@@ -16,6 +18,8 @@
 
 - [`packages/uswds-core/src/styles/mixins/typography/unstyled-list.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/typography/unstyled-list.scss)
   - `unstyled-list`
+  
+</details>
 
 ## Tokens
 

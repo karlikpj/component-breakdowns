@@ -9,12 +9,16 @@
 - [`@extend %block-input-general;`](/placeholders/forms.md)
 - [`@extend %block-input-styles;`](/placeholders/forms.md)
 
-## Mixins
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/srec/styles/mixins/utilities/_disabled.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/srec/styles/mixins/utilities/_disabled.scss)
 
   - `u_disabled`
   - `u-disabled-high-contrast-border`
+
+</details>
 
 ## Tokens
 

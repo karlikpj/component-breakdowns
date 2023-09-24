@@ -12,11 +12,16 @@
   - `@use "../functions/utilities" as *;`
   - `@use "../mixins/utilities/margin" as *;`
 
-## Mixins
+
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/src/styles/mixins/utilities/_margin.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/utilities/_margin.scss)
 
   - `y_margin`
+
+</details>
 
 ## Tokens
 

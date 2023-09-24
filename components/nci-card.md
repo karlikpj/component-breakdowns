@@ -9,7 +9,9 @@
 - `@use "uswds-core" as \*`;
 - [@use "../../../internal-uswds/usa-card/src/styles/usa-card" as card;](https://github.com/uswds/uswds/tree/v3.3.0/packages/usa-card)
 
-## Mixins
+### Mixins
+<details>
+<summary>click to show</summary>
 
 - [`packages/uswds-core/src/styles/mixins/helpers/at-media.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/helpers/at-media.scss)
 
@@ -56,6 +58,8 @@
 - [`packages/uswds-core/src/styles/mixins/utilities/_shadow.scss`](https://github.com/uswds/uswds/tree/v3.3.0/packages/uswds-core/src/styles/mixins/utilities/_shadow.scss)
 
   - `u-shadow`
+
+</details>
 
 ## Tokens
 
