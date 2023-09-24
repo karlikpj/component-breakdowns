@@ -7,6 +7,9 @@ This is a series of MDX files that document the uswds/ncids components for packa
 
 - [components](/components/index.md)
 - [placeholders](/placeholders/index.md)
+- [settings tokens](/tokens/settings.md)
+- [color tokens](/tokens/colors.md)
+
 
 This is a work in progress and will be updated over time.
 
