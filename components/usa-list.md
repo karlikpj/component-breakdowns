@@ -28,5 +28,6 @@ $theme-text-measure
 ### Class Names
 
 ```css
-.usa-list .usa-list--unstyled;
+.usa-list 
+.usa-list--unstyled
 ```

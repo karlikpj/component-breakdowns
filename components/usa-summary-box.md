@@ -55,5 +55,5 @@ $theme-summary-box-text-color;
 .usa-summary-box__heading
 .usa-summary-box__text
 .usa-summary-box__link
-.usa-summary-box__heading;
+.usa-summary-box__heading
 ```
