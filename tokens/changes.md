@@ -2,9 +2,9 @@
 
 # Changes
 
-## Theme Palette
+## Color Changes
 
-#### Palette
+#### Theme Palette
 
 | Color                             | USWDS         |         | NCIDS        |         |
 | :-------------------------------- | :------------ | :-----: | :----------- | :-----: |
@@ -71,9 +71,7 @@
 | $theme-color-emergency-dark  | red-warm-80    | #332d29 | cranberry-80  | #700824 |
 | $theme-link-color            | primary        | #007bbd | cerulean-60v  | #01679d |
 
-## Text
-
-#### Theme Palette
+#### Text Theme
 
 | Class name                | USWDS         |         | NCIDS         |         |
 | :------------------------ | :------------ | :-----: | :------------ | :-----: |
@@ -110,7 +108,7 @@
 | .text-emergency           | red-warm-60v  | #9c3d10 | cranberry-60v | #b60d43 |
 | .text-emergency-dark      | red-warm-80   | #332d29 | cranberry-80  | #700824 |
 
-#### Grayscale Palette
+#### Text Grayscale
 
 | Class name    | USWDS   |         | NCIDS change |     |
 | :------------ | :------ | :-----: | :----------- | :-: |
@@ -123,7 +121,7 @@
 | .text-gray-90 | gray-90 | #171717 |              |     |
 | .text-black   | black   | #000000 |              |     |
 
-#### Basic Palette
+#### Text Basic 
 
 | Class name      | USWDS |     | NCIDS change |         |
 | :-------------- | :---- | :-: | :----------- | :-----: |
@@ -133,9 +131,7 @@
 | .text-navy      |       |     | navy-50      | #5478ab |
 | .text-golden    |       |     | golden-20    | #face00 |
 
-## Background
-
-#### Theme Palette
+#### Theme Background
 
 | Class name               | USWDS          |         | NCIDS         |         |
 | :----------------------- | :------------- | :-----: | :------------ | :-----: |
@@ -223,9 +219,7 @@
 | .bg-emergency            | red-warm-60v   | #9c3d10 | cranberry-60v | #b60d43 |
 | .bg-emergency-dark       | red-warm-80    | #332d29 | cranberry-80  | #700824 |
 
-## Border
-
-#### Theme Palette
+#### Border Theme
 
 | Class name                  | USWDS default |   hex   | NCIDS change  |   hex   |
 | :-------------------------- | :------------ | :-----: | :------------ | :-----: |
@@ -263,7 +257,7 @@
 | .border-emergency           | red-warm-60v  | #9c3d10 | cranberry-60v | #b60d43 |
 | .border-emergency-dark      | red-warm-80   | #332d29 | cranberry-80  | #700824 |
 
-#### Grayscale Palette
+#### Border Grayscale 
 
 | Class name      | USWDS default |   hex   | NCIDS change | hex |
 | :-------------- | :------------ | :-----: | :----------- | :-: |
@@ -276,7 +270,7 @@
 | .border-gray-90 | gray-90       | #171717 |              |     |
 | .border-black   | black         | #000000 |              |     |
 
-#### Basic Palette
+#### Border Basic
 
 | Class name        | USWDS default | hex | NCIDS change |   hex   |
 | :---------------- | :------------ | :-: | :----------- | :-----: |
