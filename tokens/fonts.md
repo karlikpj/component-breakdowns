@@ -2,7 +2,7 @@
 
 # Fonts
 
-| Token                       | Change             | Value         |
+| Token                       | Change             | Value               |
 | :-------------------------- | :----------------- | :------------------ |
 | $theme-type-scale-xs        | `'4' to '5'`       | `~15px to ~16px`    |
 | $theme-type-scale-sm        | `'5' to '7'`       | `~16px to ~18px`    |
